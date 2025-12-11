@@ -1,0 +1,13 @@
+C:\Users\potir\OneDrive\Documentos\farmacia\Farmacia\farmacia-api\src\main\java\com\farmacia\api\model\Medicamento.java
+C:\Users\potir\OneDrive\Documentos\farmacia\Farmacia\farmacia-api\src\main\java\com\farmacia\api\exception\MedicamentoNotFoundException.java
+C:\Users\potir\OneDrive\Documentos\farmacia\Farmacia\farmacia-api\src\main\java\com\farmacia\api\exception\ErrorResponse.java
+C:\Users\potir\OneDrive\Documentos\farmacia\Farmacia\farmacia-api\src\main\java\com\farmacia\api\FarmaciaApiApplication.java
+C:\Users\potir\OneDrive\Documentos\farmacia\Farmacia\farmacia-api\src\main\java\com\farmacia\api\controller\MedicamentoFornecedorController.java
+C:\Users\potir\OneDrive\Documentos\farmacia\Farmacia\farmacia-api\src\main\java\com\farmacia\api\dto\MedicamentoRequestDTO.java
+C:\Users\potir\OneDrive\Documentos\farmacia\Farmacia\farmacia-api\src\main\java\com\farmacia\api\dto\MedicamentoResponseDTO.java
+C:\Users\potir\OneDrive\Documentos\farmacia\Farmacia\farmacia-api\src\main\java\com\farmacia\api\repository\MedicamentoRepository.java
+C:\Users\potir\OneDrive\Documentos\farmacia\Farmacia\farmacia-api\src\main\java\com\farmacia\api\config\OpenAPIConfig.java
+C:\Users\potir\OneDrive\Documentos\farmacia\Farmacia\farmacia-api\src\main\java\com\farmacia\api\controller\HomeController.java
+C:\Users\potir\OneDrive\Documentos\farmacia\Farmacia\farmacia-api\src\main\java\com\farmacia\api\exception\GlobalExceptionHandler.java
+C:\Users\potir\OneDrive\Documentos\farmacia\Farmacia\farmacia-api\src\main\java\com\farmacia\api\service\MedicamentoService.java
+C:\Users\potir\OneDrive\Documentos\farmacia\Farmacia\farmacia-api\src\main\java\com\farmacia\api\controller\MedicamentoPublicController.java

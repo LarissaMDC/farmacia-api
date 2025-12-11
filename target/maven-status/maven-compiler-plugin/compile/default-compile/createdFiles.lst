@@ -1,0 +1,13 @@
+com\farmacia\api\repository\MedicamentoRepository.class
+com\farmacia\api\service\MedicamentoService.class
+com\farmacia\api\FarmaciaApiApplication.class
+com\farmacia\api\controller\MedicamentoPublicController.class
+com\farmacia\api\dto\MedicamentoRequestDTO.class
+com\farmacia\api\exception\MedicamentoNotFoundException.class
+com\farmacia\api\dto\MedicamentoResponseDTO.class
+com\farmacia\api\exception\ErrorResponse.class
+com\farmacia\api\config\OpenAPIConfig.class
+com\farmacia\api\controller\MedicamentoFornecedorController.class
+com\farmacia\api\exception\GlobalExceptionHandler.class
+com\farmacia\api\model\Medicamento.class
+com\farmacia\api\controller\HomeController.class
